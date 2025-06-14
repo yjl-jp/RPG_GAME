@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - rpg new\\assets\\player_basicattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|solutionrelative:assets\\player_basicattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|e:\\unity projects\\projects - courses\\udemy course - rpg new\\assets\\player_jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|solutionrelative:assets\\player_jumpstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\assets\\player_fallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|solutionrelative:assets\\player_fallstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\assets\\entitystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F0653F-4C27-A2E8-A4D0-DDA59BA58F15}|Assembly-CSharp.csproj|solutionrelative:assets\\entitystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player_BasicAttackState.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player_BasicAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_BasicAttackState.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player_BasicAttackState.cs",
+              "RelativeToolTip": "Assets\\Player_BasicAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:25:09.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player_JumpState.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player_JumpState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_JumpState.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player_JumpState.cs",
+              "RelativeToolTip": "Assets\\Player_JumpState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:43:57.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityState.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\EntityState.cs",
+              "RelativeDocumentMoniker": "Assets\\EntityState.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\EntityState.cs",
+              "RelativeToolTip": "Assets\\EntityState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:38:27.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player_FallState.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player_FallState.cs",
+              "RelativeDocumentMoniker": "Assets\\Player_FallState.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player_FallState.cs",
+              "RelativeToolTip": "Assets\\Player_FallState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:38:19.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "E:\\Unity Projects\\Projects - Courses\\Udemy Course - RPG New\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAJwAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T11:05:54.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
